@@ -1,3 +1,3 @@
-# a_tour_of_go: Basics
+# a_tour_of_go
 
 
